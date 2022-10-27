@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there my name is Leonid 👋
 ## I,m a beginner Software Engeneer
 
 
