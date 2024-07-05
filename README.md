@@ -21,8 +21,7 @@
 ### 📈 Codewars :
 [![codewars](https://www.codewars.com/users/gehat/badges/large)](https://www.codewars.com/users/gehat)   
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gehat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gehat&theme=solarized_dark)
-![](https://profile-summary-for-github.com/user/gehat)
+
