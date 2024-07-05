@@ -12,9 +12,9 @@
 ![Django](https://img.shields.io/badge/Django-1c291f?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1c291f?style=flat-square&logo=FastAPI)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-markdown
+
 ### 📈 GitHub Activity Graph:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gehat)](https://git.io/streak-stats)
-markdown
+
 ### 📈 GitHub achivment Graph:
 [![trophy](https://github-profile-trophy.vercel.app/?username=gehat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
