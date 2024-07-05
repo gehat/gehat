@@ -14,4 +14,4 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 markdown
 ### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gehat&theme=dracula)](https://github.com/gehat/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gehat)](https://git.io/streak-stats)
