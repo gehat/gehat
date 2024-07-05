@@ -23,4 +23,4 @@
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?gehat=your-github-gehat&color=green)
