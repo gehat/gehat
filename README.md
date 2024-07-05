@@ -12,3 +12,6 @@
 ![Django](https://img.shields.io/badge/Django-1c291f?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1c291f?style=flat-square&logo=FastAPI)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+markdown
+### 📈 GitHub Activity Graph:
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
