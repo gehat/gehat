@@ -22,3 +22,5 @@
 [![codewars](https://www.codewars.com/users/gehat/badges/large)](https://www.codewars.com/users/gehat)   
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
