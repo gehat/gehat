@@ -24,3 +24,4 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gehat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gehat&theme=solarized_dark)
