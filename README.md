@@ -14,4 +14,4 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 markdown
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gehat&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
