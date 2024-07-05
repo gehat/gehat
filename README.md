@@ -14,7 +14,8 @@
 
 
 ### 📈 GitHub Activity Graph:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gehat)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gehat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gehat&theme=solarized_dark)
 
 ### 📈 GitHub achivment Graph:
 [![trophy](https://github-profile-trophy.vercel.app/?username=gehat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -22,6 +23,5 @@
 [![codewars](https://www.codewars.com/users/gehat/badges/large)](https://www.codewars.com/users/gehat)   
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gehat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gehat&theme=solarized_dark)
+
 
