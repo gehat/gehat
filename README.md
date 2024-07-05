@@ -18,3 +18,5 @@
 
 ### 📈 GitHub achivment Graph:
 [![trophy](https://github-profile-trophy.vercel.app/?username=gehat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 Codewars :
+[![codewars](https://www.codewars.com/users/gehat/badges/large)](https://www.codewars.com/users/gehat)   
