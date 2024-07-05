@@ -15,6 +15,5 @@
 markdown
 ### 📈 GitHub Activity Graph:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gehat)](https://git.io/streak-stats)
-### 📈 GitHub Language Graph:
 markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gehat&layout=compact)](https://github.com/gehat/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gehat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
