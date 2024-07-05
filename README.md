@@ -11,7 +11,7 @@
 ![sql](https://img.shields.io/badge/PostgreSQL-1c291f?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/Django-1c291f?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1c291f?style=flat-square&logo=FastAPI)
-
+![Flask](https://img.shields.io/badge/Flask-1c291f?style=flat-square&logo=Flask)
 
 ### 📈 GitHub Activity Graph:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gehat&theme=solarized_dark)
