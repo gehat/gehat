@@ -11,3 +11,4 @@
 ![sql](https://img.shields.io/badge/PostgreSQL-1c291f?style=flat-square&logo=PostgreSQL)
 ![Django](https://img.shields.io/badge/Django-1c291f?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1c291f?style=flat-square&logo=FastAPI)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
