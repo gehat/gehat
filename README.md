@@ -1,5 +1,16 @@
-### Hi there my name is Leonid 👋
-## I,m a beginner Software Engeneer
+Hi, I'm Leonid.
+
+Python Backend / Automation Developer.
+
+I build practical tools for business process automation:
+- Telegram bots
+- API integrations
+- dashboards and admin panels
+- PostgreSQL-based services
+- FastAPI / Django / Docker applications
+- AI and RAG assistants for internal documents
+
+Currently focused on AI automation and backend tools for small and medium businesses.
 
 
 ### Language and Tools
